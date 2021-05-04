@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MwMxdev
 - 👀 I’m interested in Linux / Android
 - 🌱 I’m currently learning  C / C ++ / Kotlin
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Linux distros
+- 📫 How to reach me mwmace3@gmail.com
 
 <!---
 MwMxdev/MwMxdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
