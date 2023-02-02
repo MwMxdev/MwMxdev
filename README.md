@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MwMxdev
 - 👀 I’m interested in Linux / Android
-- 🌱 I’m currently learning  C / C ++ / Kotlin
-- 💞️ I’m looking to collaborate on Linux distros
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Android Projects
 - 📫 How to reach me
 
 <!---
